@@ -8,7 +8,7 @@ let bolosJson = [{
         id: 1,
         nome: 'Chocolate',
         img: 'img/bolo.png',
-        preco: [12.90, 13.70, 15, 00],
+        preco: [12.90, 13.70, 15.00],
         peso: ["1kg", '1,5kg', '2kg'],
         descricao: 'Descrição de bolo em mais de uma linha muito legal bem interessante'
     },
@@ -40,7 +40,7 @@ let bolosJson = [{
         id: 5,
         nome: 'Frutas Citricas',
         img: 'img/bolo5.png',
-        preco: [12.00, 13, 00, 15, 00],
+        preco: [12.00, 13.00, 15.00],
         peso: ['1kg', '1,5kg', '2kg'],
         descricao: 'Descricao de bolo em mais de uma linha muito legal bem interessante'
     },
